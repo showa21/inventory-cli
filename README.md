@@ -1,5 +1,7 @@
 # Inventory CLI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Built with](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
 ```text
 $ python -m inventory add Widget 10 2.50
 Added Widget (x10 @ $2.50)
